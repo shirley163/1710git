@@ -6,4 +6,6 @@
     echo "third commit";
 
     echo "forth commit";
+
+    echo "commit on windows by torise";
 ?>
