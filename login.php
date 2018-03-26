@@ -8,4 +8,6 @@
     echo "forth commit";
 
     echo "commit on windows by torise";
+
+    echo "new adding statement";
 ?>
